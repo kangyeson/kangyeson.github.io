@@ -18,7 +18,7 @@ minimal_mistakes_skin    :  "dark" # "default", "air", "aqua", "contrast", "dark
 locale                   : "ko-KR" # "en-US"
 title                    : "LV.1 개발자 블로그🐣"
 title_separator          : "-"
-subtitle                 : "전 크게 될 개발자입니다." # site tagline that appears below site title in masthead
+subtitle                 : "Step Up - Loading..." # site tagline that appears below site title in masthead
 name                     : "YeSoN"
 description              : "전 크게 될 개발자입니다."
 url                      : "https://kangyeson.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "YeSoN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I will be an **amazing** person."
+  bio              : "기록만이 살 길"
   location         : "Republic of Korea"
   email            : 
   links:
